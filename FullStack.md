@@ -58,7 +58,7 @@ You need to put your solution here.
 
 ---
 
-## **Problem 3:** **DOCX Template → Bulk DOCX/PDF Generator (Architecture + Prompt Spec)**
+## **Problem 3:** **DOCX Template → Bulk DOCX/PDF Generator Architecture**
 
 Users upload Word templates, system detects editable fields, supports **single fill** and **bulk generation via CSV/Sheet**, exports DOCX/PDF, provides ZIP + report. [READ MORE ABOUT THE PROJECT](./docs-template-output-generation.md)
 
